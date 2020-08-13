@@ -5,16 +5,17 @@
     <img src="https://img.icons8.com/cute-clipart/96/000000/origami.png" alt="Logo" width="60" height="60">
   </a>
 
-  <h2 align="center">Hi there! 👋 My name is Rebecca Birkett!</h2>
-  <h3 align="center">aka. Bamboo Bex 🎋</h3>
+  <h2 align="center">Hi there! 👋 My name is Rebecca Birkett! 🎋</h2>
 
   <p align="center">
     I'm a Junior Developer based in Cheshire, UK! 🌳🌍
+    <br />
     <br />
     <a href="https://github.com/CNcage/anchor"><strong>🦌 Here's my Portfolio! »</strong></a>
     <br />
   </p>
 </p>
+
 
 
 After enrolling on a Full Stack Developer bootcamp with [Code Nation](https://wearecodenation.com) and studying for several months, I completed multiple projects using various stacks both individually and collaboratively! 👩🏻‍💻
