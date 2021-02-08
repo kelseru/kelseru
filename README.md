@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kelseru">
+  <a href="https://github.com/rebeccabirkett">
     <img src="https://img.icons8.com/cute-clipart/96/000000/origami.png" alt="Logo" width="60" height="60">
   </a>
 
@@ -11,7 +11,7 @@
     I'm a Junior Developer based in Cheshire, UK! 🌳🌍
     <br />
     <br />
-    <a href="https://kelseru.github.io/portfolio/"><strong>🦌 Here's my Portfolio! »</strong></a>
+    <a href="https://rebeccabirkett.github.io/portfolio/"><strong>🦌 Here's my Portfolio! »</strong></a>
     <br />
   </p>
 </p>
@@ -32,7 +32,7 @@ Getting in touch with prospective employers! I'd love the opportunity to learn m
 - 💬 Ask me about ...
 My experiences with Code Nation and my dev journey so far! 😘
 - 💌 How to reach me: ...
-You can reach me on [LinkedIn](https://www.linkedin.com/in/bex-birkett/), [@bex_birkett on Twitter](https://twitter.com/bex_birkett) or via email @ rebeccabirkett@outlook.com 
+You can reach me on [LinkedIn](https://www.linkedin.com/in/bex-birkett/), [@bex_birkett on Twitter](https://twitter.com/kelseru) or via email @ rebeccabirkett@outlook.com 
 - 🎋 Pronouns: ...
 Bex 👩🏻‍💻 | Bamboo Bex 🎋 | Kelseru 🎮
 - 😙 Fun fact: ...
